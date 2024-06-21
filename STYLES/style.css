@@ -91,11 +91,6 @@
     margin-top: 8%;
 }
 
-footer {
-    display: flex;
-    justify-content: center;
-}
-
 @media (max-width: 480px) {
 
     .imagenfondo {
